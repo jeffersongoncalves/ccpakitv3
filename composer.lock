@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "497dc9bad5af325a2f3cca346291df9e",
+    "content-hash": "c3b2eca049be0ad1514e9a8a2eb7b427",
     "packages": [
         {
             "name": "achyutn/filament-log-viewer",
@@ -144,7 +144,8 @@
                 "issues": "https://github.com/AnourValar/eloquent-serialize/issues",
                 "source": "https://github.com/AnourValar/eloquent-serialize/tree/1.3.12"
             },
-            "time": "2026-09-13T06:25:37+00:00"
+            "time": "2026-09-13T06:25:37+00:00",
+            "published-time": "2026-09-13T06:26:57+00:00"
         },
         {
             "name": "blade-ui-kit/blade-heroicons",
@@ -356,7 +357,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-09-12T10:28:18+00:00"
+            "time": "2026-09-12T10:28:18+00:00",
+            "published-time": "2026-09-12T12:23:30+00:00"
         },
         {
             "name": "calebporzio/sushi",
@@ -484,7 +486,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-09-06T14:11:38+00:00"
+            "time": "2026-09-06T14:11:38+00:00",
+            "published-time": "2026-09-06T14:15:00+00:00"
         },
         {
             "name": "danharrin/date-format-converter",
@@ -535,7 +538,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-06-13T09:38:44+00:00"
+            "time": "2024-06-13T09:38:44+00:00",
+            "published-time": "2024-06-13T09:39:48+00:00"
         },
         {
             "name": "danharrin/livewire-rate-limiting",
@@ -589,7 +593,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-09-18T07:38:01+00:00"
+            "time": "2026-09-18T07:38:01+00:00",
+            "published-time": "2026-09-18T08:03:27+00:00"
         },
         {
             "name": "dflydev/dot-access-data",
@@ -664,7 +669,8 @@
                 "issues": "https://github.com/dflydev/dflydev-dot-access-data/issues",
                 "source": "https://github.com/dflydev/dflydev-dot-access-data/tree/v3.0.3"
             },
-            "time": "2024-07-08T12:26:09+00:00"
+            "time": "2024-07-08T12:26:09+00:00",
+            "published-time": "2024-07-08T12:27:13+00:00"
         },
         {
             "name": "doctrine/dbal",
@@ -1052,7 +1058,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-10-19T17:53:57+00:00"
+            "time": "2026-10-19T17:53:57+00:00",
+            "published-time": "2026-10-19T17:54:31+00:00"
         },
         {
             "name": "dutchcodingcompany/filament-developer-logins",
@@ -1186,11 +1193,12 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-03-06T22:45:56+00:00"
+            "time": "2025-03-06T22:45:56+00:00",
+            "published-time": "2025-03-20T21:39:03+00:00"
         },
         {
             "name": "filament/actions",
-            "version": "v3.3.56",
+            "version": "v3.3.57",
             "source": {
                 "type": "git",
                 "url": "https://github.com/filamentphp/actions.git",
@@ -1239,20 +1247,21 @@
                 "issues": "https://github.com/filamentphp/filament/issues",
                 "source": "https://github.com/filamentphp/filament"
             },
-            "time": "2026-06-12T16:57:07+00:00"
+            "time": "2026-06-12T16:57:07+00:00",
+            "published-time": "2026-10-12T16:39:35+00:00"
         },
         {
             "name": "filament/filament",
-            "version": "v3.3.56",
+            "version": "v3.3.57",
             "source": {
                 "type": "git",
                 "url": "https://github.com/filamentphp/panels.git",
-                "reference": "04e29df86858bf42bb8c07895c35703be8bdd6e5"
+                "reference": "8897b61be1df4c937c76241cd5602544c4716c45"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/filamentphp/panels/zipball/04e29df86858bf42bb8c07895c35703be8bdd6e5",
-                "reference": "04e29df86858bf42bb8c07895c35703be8bdd6e5",
+                "url": "https://api.github.com/repos/filamentphp/panels/zipball/8897b61be1df4c937c76241cd5602544c4716c45",
+                "reference": "8897b61be1df4c937c76241cd5602544c4716c45",
                 "shasum": ""
             },
             "require": {
@@ -1304,20 +1313,21 @@
                 "issues": "https://github.com/filamentphp/filament/issues",
                 "source": "https://github.com/filamentphp/filament"
             },
-            "time": "2026-06-12T16:57:16+00:00"
+            "time": "2026-10-12T16:39:26+00:00",
+            "published-time": "2026-10-12T16:39:35+00:00"
         },
         {
             "name": "filament/forms",
-            "version": "v3.3.56",
+            "version": "v3.3.57",
             "source": {
                 "type": "git",
                 "url": "https://github.com/filamentphp/forms.git",
-                "reference": "c7773cb4bdde5ac396a527ce58e78aa4b4c8fc04"
+                "reference": "791afd58ea7e00d2a495d1bbcafe294d052016a5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/filamentphp/forms/zipball/c7773cb4bdde5ac396a527ce58e78aa4b4c8fc04",
-                "reference": "c7773cb4bdde5ac396a527ce58e78aa4b4c8fc04",
+                "url": "https://api.github.com/repos/filamentphp/forms/zipball/791afd58ea7e00d2a495d1bbcafe294d052016a5",
+                "reference": "791afd58ea7e00d2a495d1bbcafe294d052016a5",
                 "shasum": ""
             },
             "require": {
@@ -1360,11 +1370,12 @@
                 "issues": "https://github.com/filamentphp/filament/issues",
                 "source": "https://github.com/filamentphp/filament"
             },
-            "time": "2026-10-05T12:35:36+00:00"
+            "time": "2026-10-12T16:39:33+00:00",
+            "published-time": "2026-10-12T16:39:45+00:00"
         },
         {
             "name": "filament/infolists",
-            "version": "v3.3.56",
+            "version": "v3.3.57",
             "source": {
                 "type": "git",
                 "url": "https://github.com/filamentphp/infolists.git",
@@ -1411,20 +1422,21 @@
                 "issues": "https://github.com/filamentphp/filament/issues",
                 "source": "https://github.com/filamentphp/filament"
             },
-            "time": "2026-06-12T16:57:28+00:00"
+            "time": "2026-06-12T16:57:28+00:00",
+            "published-time": "2026-10-12T16:39:37+00:00"
         },
         {
             "name": "filament/notifications",
-            "version": "v3.3.56",
+            "version": "v3.3.57",
             "source": {
                 "type": "git",
                 "url": "https://github.com/filamentphp/notifications.git",
-                "reference": "c9b6b1f1d06b9c64d7378c945bec21f8802d554f"
+                "reference": "a3c8be2e3146d6d6dfeafa9aa1a3fb892b468972"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/filamentphp/notifications/zipball/c9b6b1f1d06b9c64d7378c945bec21f8802d554f",
-                "reference": "c9b6b1f1d06b9c64d7378c945bec21f8802d554f",
+                "url": "https://api.github.com/repos/filamentphp/notifications/zipball/a3c8be2e3146d6d6dfeafa9aa1a3fb892b468972",
+                "reference": "a3c8be2e3146d6d6dfeafa9aa1a3fb892b468972",
                 "shasum": ""
             },
             "require": {
@@ -1463,11 +1475,12 @@
                 "issues": "https://github.com/filamentphp/filament/issues",
                 "source": "https://github.com/filamentphp/filament"
             },
-            "time": "2026-06-12T16:57:50+00:00"
+            "time": "2026-10-12T16:39:25+00:00",
+            "published-time": "2026-10-12T16:39:33+00:00"
         },
         {
             "name": "filament/spatie-laravel-settings-plugin",
-            "version": "v3.3.56",
+            "version": "v3.3.57",
             "source": {
                 "type": "git",
                 "url": "https://github.com/filamentphp/spatie-laravel-settings-plugin.git",
@@ -1511,20 +1524,20 @@
                 "source": "https://github.com/filamentphp/filament"
             },
             "time": "2026-06-12T16:57:33+00:00",
-            "published-time": "2026-10-05T12:34:40+00:00"
+            "published-time": "2026-10-12T16:39:37+00:00"
         },
         {
             "name": "filament/support",
-            "version": "v3.3.56",
+            "version": "v3.3.57",
             "source": {
                 "type": "git",
                 "url": "https://github.com/filamentphp/support.git",
-                "reference": "e2ce3ca8fd1007103e4a16ab564a76b6fee87968"
+                "reference": "4ba50077b94f1f3216aa73e59d98200421a14c99"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/filamentphp/support/zipball/e2ce3ca8fd1007103e4a16ab564a76b6fee87968",
-                "reference": "e2ce3ca8fd1007103e4a16ab564a76b6fee87968",
+                "url": "https://api.github.com/repos/filamentphp/support/zipball/4ba50077b94f1f3216aa73e59d98200421a14c99",
+                "reference": "4ba50077b94f1f3216aa73e59d98200421a14c99",
                 "shasum": ""
             },
             "require": {
@@ -1570,12 +1583,12 @@
                 "issues": "https://github.com/filamentphp/filament/issues",
                 "source": "https://github.com/filamentphp/filament"
             },
-            "time": "2026-08-24T16:38:35+00:00",
-            "published-time": "2026-10-05T12:43:42+00:00"
+            "time": "2026-10-12T16:39:32+00:00",
+            "published-time": "2026-10-12T16:39:42+00:00"
         },
         {
             "name": "filament/tables",
-            "version": "v3.3.56",
+            "version": "v3.3.57",
             "source": {
                 "type": "git",
                 "url": "https://github.com/filamentphp/tables.git",
@@ -1623,20 +1636,21 @@
                 "issues": "https://github.com/filamentphp/filament/issues",
                 "source": "https://github.com/filamentphp/filament"
             },
-            "time": "2026-06-12T16:57:06+00:00"
+            "time": "2026-06-12T16:57:06+00:00",
+            "published-time": "2026-10-12T16:39:55+00:00"
         },
         {
             "name": "filament/widgets",
-            "version": "v3.3.56",
+            "version": "v3.3.57",
             "source": {
                 "type": "git",
                 "url": "https://github.com/filamentphp/widgets.git",
-                "reference": "db41ce3846560cb87bd0933742d762e23a9b5cd8"
+                "reference": "2c9ae795071fb615913d0f293d78369fc92de4e6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/filamentphp/widgets/zipball/db41ce3846560cb87bd0933742d762e23a9b5cd8",
-                "reference": "db41ce3846560cb87bd0933742d762e23a9b5cd8",
+                "url": "https://api.github.com/repos/filamentphp/widgets/zipball/2c9ae795071fb615913d0f293d78369fc92de4e6",
+                "reference": "2c9ae795071fb615913d0f293d78369fc92de4e6",
                 "shasum": ""
             },
             "require": {
@@ -1667,7 +1681,8 @@
                 "issues": "https://github.com/filamentphp/filament/issues",
                 "source": "https://github.com/filamentphp/filament"
             },
-            "time": "2026-06-12T16:57:28+00:00"
+            "time": "2026-10-12T16:39:30+00:00",
+            "published-time": "2026-10-12T16:39:38+00:00"
         },
         {
             "name": "fruitcake/php-cors",
@@ -1738,7 +1753,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-12-03T09:33:47+00:00"
+            "time": "2025-12-03T09:33:47+00:00",
+            "published-time": "2025-12-03T09:37:01+00:00"
         },
         {
             "name": "graham-campbell/result-type",
@@ -1800,7 +1816,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-08-24T09:06:52+00:00"
+            "time": "2026-08-24T09:06:52+00:00",
+            "published-time": "2026-08-24T09:07:57+00:00"
         },
         {
             "name": "guzzlehttp/guzzle",
@@ -1927,7 +1944,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-11-17T16:24:00+00:00"
+            "time": "2026-11-17T16:24:00+00:00",
+            "published-time": "2026-11-17T16:24:22+00:00"
         },
         {
             "name": "guzzlehttp/promises",
@@ -2011,20 +2029,21 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-18T12:48:16+00:00"
+            "time": "2026-10-18T12:48:16+00:00",
+            "published-time": "2026-10-18T12:48:47+00:00"
         },
         {
             "name": "guzzlehttp/psr7",
-            "version": "3.4.0",
+            "version": "3.5.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/psr7.git",
-                "reference": "180bd6fcebd1dc289cbec5c576135f4b6f576e02"
+                "reference": "b7d9cd94918e1f042d22cf188a7a866e5906bf1d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/psr7/zipball/180bd6fcebd1dc289cbec5c576135f4b6f576e02",
-                "reference": "180bd6fcebd1dc289cbec5c576135f4b6f576e02",
+                "url": "https://api.github.com/repos/guzzle/psr7/zipball/b7d9cd94918e1f042d22cf188a7a866e5906bf1d",
+                "reference": "b7d9cd94918e1f042d22cf188a7a866e5906bf1d",
                 "shasum": ""
             },
             "require": {
@@ -2047,6 +2066,7 @@
                 "phpunit/phpunit": "^9.6.34"
             },
             "suggest": {
+                "ext-intl": "Convert internationalized hosts with Idna",
                 "laminas/laminas-httphandlerrunner": "Emit PSR-7 responses"
             },
             "type": "library",
@@ -2115,7 +2135,7 @@
             ],
             "support": {
                 "issues": "https://github.com/guzzle/psr7/issues",
-                "source": "https://github.com/guzzle/psr7/tree/3.4.0"
+                "source": "https://github.com/guzzle/psr7/tree/3.5.0"
             },
             "funding": [
                 {
@@ -2131,7 +2151,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-11-13T03:03:24+00:00"
+            "time": "2026-11-18T15:29:09+00:00",
+            "published-time": "2026-11-18T15:29:39+00:00"
         },
         {
             "name": "guzzlehttp/uri-template",
@@ -2217,7 +2238,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-08-24T17:13:02+00:00"
+            "time": "2026-08-24T17:13:02+00:00",
+            "published-time": "2026-08-24T17:13:22+00:00"
         },
         {
             "name": "jaybizzle/crawler-detect",
@@ -2427,22 +2449,22 @@
         },
         {
             "name": "jeffersongoncalves/filament-ccpa",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jeffersongoncalves/filament-ccpa.git",
-                "reference": "4b65ebe36e4a5368d0d16d851c78ef5914dc4e0f"
+                "reference": "bc6e01d91339f06ca3348e16ef073dc3e5d341a5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jeffersongoncalves/filament-ccpa/zipball/4b65ebe36e4a5368d0d16d851c78ef5914dc4e0f",
-                "reference": "4b65ebe36e4a5368d0d16d851c78ef5914dc4e0f",
+                "url": "https://api.github.com/repos/jeffersongoncalves/filament-ccpa/zipball/bc6e01d91339f06ca3348e16ef073dc3e5d341a5",
+                "reference": "bc6e01d91339f06ca3348e16ef073dc3e5d341a5",
                 "shasum": ""
             },
             "require": {
                 "filament/filament": "^3.3",
                 "jeffersongoncalves/filament-plugin-core": "^1.0",
-                "jeffersongoncalves/laravel-ccpa": "^1.0",
+                "jeffersongoncalves/laravel-ccpa": "^2.0",
                 "php": "^8.2",
                 "spatie/laravel-package-tools": "^1.16"
             },
@@ -2491,7 +2513,7 @@
             ],
             "support": {
                 "issues": "https://github.com/jeffersongoncalves/filament-ccpa/issues",
-                "source": "https://github.com/jeffersongoncalves/filament-ccpa/tree/1.0.0"
+                "source": "https://github.com/jeffersongoncalves/filament-ccpa/tree/1.1.0"
             },
             "funding": [
                 {
@@ -2503,27 +2525,27 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-11-17T19:50:11+00:00",
-            "published-time": "2026-11-17T19:50:51+00:00"
+            "time": "2026-11-18T22:33:00+00:00",
+            "published-time": "2026-11-18T22:37:30+00:00"
         },
         {
             "name": "jeffersongoncalves/filament-ccpa-audit-log",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jeffersongoncalves/filament-ccpa-audit-log.git",
-                "reference": "c067b8bccab543ebbd646a08527d3fc34b6804f5"
+                "reference": "ad9cbbca52926b6393938dd49b78e36a7167156a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jeffersongoncalves/filament-ccpa-audit-log/zipball/c067b8bccab543ebbd646a08527d3fc34b6804f5",
-                "reference": "c067b8bccab543ebbd646a08527d3fc34b6804f5",
+                "url": "https://api.github.com/repos/jeffersongoncalves/filament-ccpa-audit-log/zipball/ad9cbbca52926b6393938dd49b78e36a7167156a",
+                "reference": "ad9cbbca52926b6393938dd49b78e36a7167156a",
                 "shasum": ""
             },
             "require": {
                 "filament/filament": "^3.3",
                 "jeffersongoncalves/filament-plugin-core": "^1.0",
-                "jeffersongoncalves/laravel-ccpa-audit-log": "^1.0",
+                "jeffersongoncalves/laravel-ccpa-audit-log": "^2.0",
                 "php": "^8.2",
                 "spatie/laravel-package-tools": "^1.16"
             },
@@ -2573,7 +2595,7 @@
             ],
             "support": {
                 "issues": "https://github.com/jeffersongoncalves/filament-ccpa-audit-log/issues",
-                "source": "https://github.com/jeffersongoncalves/filament-ccpa-audit-log/tree/1.0.0"
+                "source": "https://github.com/jeffersongoncalves/filament-ccpa-audit-log/tree/1.1.0"
             },
             "funding": [
                 {
@@ -2585,8 +2607,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-11-17T19:56:47+00:00",
-            "published-time": "2026-11-17T19:57:24+00:00"
+            "time": "2026-11-18T22:33:05+00:00",
+            "published-time": "2026-11-18T22:37:48+00:00"
         },
         {
             "name": "jeffersongoncalves/filament-ccpa-breaches",
@@ -3005,22 +3027,22 @@
         },
         {
             "name": "jeffersongoncalves/filament-ccpa-retention",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jeffersongoncalves/filament-ccpa-retention.git",
-                "reference": "1b36a6f8fb776c36a68387ab4090a7754c8dec06"
+                "reference": "593f888125f1437eeb66194355a3afc4138dec80"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jeffersongoncalves/filament-ccpa-retention/zipball/1b36a6f8fb776c36a68387ab4090a7754c8dec06",
-                "reference": "1b36a6f8fb776c36a68387ab4090a7754c8dec06",
+                "url": "https://api.github.com/repos/jeffersongoncalves/filament-ccpa-retention/zipball/593f888125f1437eeb66194355a3afc4138dec80",
+                "reference": "593f888125f1437eeb66194355a3afc4138dec80",
                 "shasum": ""
             },
             "require": {
                 "filament/filament": "^3.3",
                 "jeffersongoncalves/filament-plugin-core": "^1.0",
-                "jeffersongoncalves/laravel-ccpa-retention": "^1.0",
+                "jeffersongoncalves/laravel-ccpa-retention": "^2.0",
                 "php": "^8.2",
                 "spatie/laravel-package-tools": "^1.16"
             },
@@ -3070,7 +3092,7 @@
             ],
             "support": {
                 "issues": "https://github.com/jeffersongoncalves/filament-ccpa-retention/issues",
-                "source": "https://github.com/jeffersongoncalves/filament-ccpa-retention/tree/1.0.0"
+                "source": "https://github.com/jeffersongoncalves/filament-ccpa-retention/tree/1.1.0"
             },
             "funding": [
                 {
@@ -3082,8 +3104,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-11-17T19:55:12+00:00",
-            "published-time": "2026-11-17T19:55:48+00:00"
+            "time": "2026-11-18T22:33:10+00:00",
+            "published-time": "2026-11-18T22:37:54+00:00"
         },
         {
             "name": "jeffersongoncalves/filament-ccpa-risk-assessments",
@@ -3792,16 +3814,16 @@
         },
         {
             "name": "jeffersongoncalves/laravel-ccpa",
-            "version": "1.0.0",
+            "version": "2.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jeffersongoncalves/laravel-ccpa.git",
-                "reference": "24a653d3079c00989ce7707318d34bfc214d7c34"
+                "reference": "b6065854d3a815a534a9f715c9b29a453a174c81"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jeffersongoncalves/laravel-ccpa/zipball/24a653d3079c00989ce7707318d34bfc214d7c34",
-                "reference": "24a653d3079c00989ce7707318d34bfc214d7c34",
+                "url": "https://api.github.com/repos/jeffersongoncalves/laravel-ccpa/zipball/b6065854d3a815a534a9f715c9b29a453a174c81",
+                "reference": "b6065854d3a815a534a9f715c9b29a453a174c81",
                 "shasum": ""
             },
             "require": {
@@ -3809,6 +3831,7 @@
                 "illuminate/contracts": "^12.0|^13.0",
                 "illuminate/database": "^12.0|^13.0",
                 "illuminate/support": "^12.0|^13.0",
+                "jeffersongoncalves/laravel-privacy": "^1.0",
                 "php": "^8.2",
                 "spatie/laravel-package-tools": "^1.16"
             },
@@ -3859,7 +3882,7 @@
             ],
             "support": {
                 "issues": "https://github.com/jeffersongoncalves/laravel-ccpa/issues",
-                "source": "https://github.com/jeffersongoncalves/laravel-ccpa/tree/1.0.0"
+                "source": "https://github.com/jeffersongoncalves/laravel-ccpa/tree/2.0.0"
             },
             "funding": [
                 {
@@ -3871,21 +3894,21 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-11-17T15:56:29+00:00",
-            "published-time": "2026-11-17T15:56:36+00:00"
+            "time": "2026-11-18T22:01:58+00:00",
+            "published-time": "2026-11-18T22:03:53+00:00"
         },
         {
             "name": "jeffersongoncalves/laravel-ccpa-audit-log",
-            "version": "1.0.0",
+            "version": "2.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jeffersongoncalves/laravel-ccpa-audit-log.git",
-                "reference": "3982da43fc64435f9e45c74467ac910269dbe37e"
+                "reference": "00f4255a637892f8acf83d182d837135ed61c1a5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jeffersongoncalves/laravel-ccpa-audit-log/zipball/3982da43fc64435f9e45c74467ac910269dbe37e",
-                "reference": "3982da43fc64435f9e45c74467ac910269dbe37e",
+                "url": "https://api.github.com/repos/jeffersongoncalves/laravel-ccpa-audit-log/zipball/00f4255a637892f8acf83d182d837135ed61c1a5",
+                "reference": "00f4255a637892f8acf83d182d837135ed61c1a5",
                 "shasum": ""
             },
             "require": {
@@ -3893,7 +3916,8 @@
                 "illuminate/contracts": "^12.0|^13.0",
                 "illuminate/database": "^12.0|^13.0",
                 "illuminate/support": "^12.0|^13.0",
-                "jeffersongoncalves/laravel-ccpa": "^1.0",
+                "jeffersongoncalves/laravel-ccpa": "^2.0",
+                "jeffersongoncalves/laravel-privacy": "^1.0",
                 "php": "^8.2",
                 "spatie/laravel-package-tools": "^1.16"
             },
@@ -3945,7 +3969,7 @@
             ],
             "support": {
                 "issues": "https://github.com/jeffersongoncalves/laravel-ccpa-audit-log/issues",
-                "source": "https://github.com/jeffersongoncalves/laravel-ccpa-audit-log/tree/1.0.0"
+                "source": "https://github.com/jeffersongoncalves/laravel-ccpa-audit-log/tree/2.0.0"
             },
             "funding": [
                 {
@@ -3957,8 +3981,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-11-17T16:16:22+00:00",
-            "published-time": "2026-11-17T16:16:29+00:00"
+            "time": "2026-11-18T22:09:26+00:00",
+            "published-time": "2026-11-18T22:13:21+00:00"
         },
         {
             "name": "jeffersongoncalves/laravel-ccpa-breaches",
@@ -4136,16 +4160,16 @@
         },
         {
             "name": "jeffersongoncalves/laravel-ccpa-notices",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jeffersongoncalves/laravel-ccpa-notices.git",
-                "reference": "a038bce9810d5bbb1f5c8ae157e71bb6cf3c09da"
+                "reference": "c3aadf0b6820b277c9e27e34babe369ccb8072fd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jeffersongoncalves/laravel-ccpa-notices/zipball/a038bce9810d5bbb1f5c8ae157e71bb6cf3c09da",
-                "reference": "a038bce9810d5bbb1f5c8ae157e71bb6cf3c09da",
+                "url": "https://api.github.com/repos/jeffersongoncalves/laravel-ccpa-notices/zipball/c3aadf0b6820b277c9e27e34babe369ccb8072fd",
+                "reference": "c3aadf0b6820b277c9e27e34babe369ccb8072fd",
                 "shasum": ""
             },
             "require": {
@@ -4154,7 +4178,7 @@
                 "illuminate/database": "^12.0|^13.0",
                 "illuminate/support": "^12.0|^13.0",
                 "illuminate/view": "^12.0|^13.0",
-                "jeffersongoncalves/laravel-ccpa": "^1.0",
+                "jeffersongoncalves/laravel-ccpa": "^2.0",
                 "php": "^8.2",
                 "spatie/laravel-package-tools": "^1.16"
             },
@@ -4206,7 +4230,7 @@
             ],
             "support": {
                 "issues": "https://github.com/jeffersongoncalves/laravel-ccpa-notices/issues",
-                "source": "https://github.com/jeffersongoncalves/laravel-ccpa-notices/tree/1.0.0"
+                "source": "https://github.com/jeffersongoncalves/laravel-ccpa-notices/tree/1.1.0"
             },
             "funding": [
                 {
@@ -4218,21 +4242,21 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-11-17T16:25:31+00:00",
-            "published-time": "2026-11-17T16:25:42+00:00"
+            "time": "2026-11-18T22:15:46+00:00",
+            "published-time": "2026-11-18T22:18:36+00:00"
         },
         {
             "name": "jeffersongoncalves/laravel-ccpa-opt-out",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jeffersongoncalves/laravel-ccpa-opt-out.git",
-                "reference": "707342ca89db70d607761b79a0facd9f1fe3a12d"
+                "reference": "05004838ecd9c2ead16f1a584e046ee0eb65b9c6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jeffersongoncalves/laravel-ccpa-opt-out/zipball/707342ca89db70d607761b79a0facd9f1fe3a12d",
-                "reference": "707342ca89db70d607761b79a0facd9f1fe3a12d",
+                "url": "https://api.github.com/repos/jeffersongoncalves/laravel-ccpa-opt-out/zipball/05004838ecd9c2ead16f1a584e046ee0eb65b9c6",
+                "reference": "05004838ecd9c2ead16f1a584e046ee0eb65b9c6",
                 "shasum": ""
             },
             "require": {
@@ -4243,7 +4267,7 @@
                 "illuminate/support": "^12.0|^13.0",
                 "illuminate/validation": "^12.0|^13.0",
                 "illuminate/view": "^12.0|^13.0",
-                "jeffersongoncalves/laravel-ccpa": "^1.0",
+                "jeffersongoncalves/laravel-ccpa": "^2.0",
                 "php": "^8.2",
                 "spatie/laravel-package-tools": "^1.16"
             },
@@ -4296,7 +4320,7 @@
             ],
             "support": {
                 "issues": "https://github.com/jeffersongoncalves/laravel-ccpa-opt-out/issues",
-                "source": "https://github.com/jeffersongoncalves/laravel-ccpa-opt-out/tree/1.0.0"
+                "source": "https://github.com/jeffersongoncalves/laravel-ccpa-opt-out/tree/1.1.0"
             },
             "funding": [
                 {
@@ -4308,21 +4332,21 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-11-17T16:05:34+00:00",
-            "published-time": "2026-11-17T16:05:43+00:00"
+            "time": "2026-11-18T22:15:41+00:00",
+            "published-time": "2026-11-18T22:18:05+00:00"
         },
         {
             "name": "jeffersongoncalves/laravel-ccpa-requests",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jeffersongoncalves/laravel-ccpa-requests.git",
-                "reference": "4f3fb52ca0729d4f26ed1a064df3b90a48f6809e"
+                "reference": "7c36e2b86cf2f946160f3bb4cc7ea426ea6e1120"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jeffersongoncalves/laravel-ccpa-requests/zipball/4f3fb52ca0729d4f26ed1a064df3b90a48f6809e",
-                "reference": "4f3fb52ca0729d4f26ed1a064df3b90a48f6809e",
+                "url": "https://api.github.com/repos/jeffersongoncalves/laravel-ccpa-requests/zipball/7c36e2b86cf2f946160f3bb4cc7ea426ea6e1120",
+                "reference": "7c36e2b86cf2f946160f3bb4cc7ea426ea6e1120",
                 "shasum": ""
             },
             "require": {
@@ -4331,7 +4355,7 @@
                 "illuminate/database": "^12.0|^13.0",
                 "illuminate/filesystem": "^12.0|^13.0",
                 "illuminate/support": "^12.0|^13.0",
-                "jeffersongoncalves/laravel-ccpa": "^1.0",
+                "jeffersongoncalves/laravel-ccpa": "^2.0",
                 "php": "^8.2",
                 "spatie/laravel-package-tools": "^1.16"
             },
@@ -4383,7 +4407,7 @@
             ],
             "support": {
                 "issues": "https://github.com/jeffersongoncalves/laravel-ccpa-requests/issues",
-                "source": "https://github.com/jeffersongoncalves/laravel-ccpa-requests/tree/1.0.0"
+                "source": "https://github.com/jeffersongoncalves/laravel-ccpa-requests/tree/1.1.0"
             },
             "funding": [
                 {
@@ -4395,21 +4419,21 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-11-17T16:15:07+00:00",
-            "published-time": "2026-11-17T16:15:17+00:00"
+            "time": "2026-11-18T22:15:36+00:00",
+            "published-time": "2026-11-18T22:17:36+00:00"
         },
         {
             "name": "jeffersongoncalves/laravel-ccpa-retention",
-            "version": "1.0.0",
+            "version": "2.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jeffersongoncalves/laravel-ccpa-retention.git",
-                "reference": "ff68986efc6c6129aa1fdf4c2c3d448204eef76a"
+                "reference": "0188f93b85ef93f0721cbbccfda80f62a677402a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jeffersongoncalves/laravel-ccpa-retention/zipball/ff68986efc6c6129aa1fdf4c2c3d448204eef76a",
-                "reference": "ff68986efc6c6129aa1fdf4c2c3d448204eef76a",
+                "url": "https://api.github.com/repos/jeffersongoncalves/laravel-ccpa-retention/zipball/0188f93b85ef93f0721cbbccfda80f62a677402a",
+                "reference": "0188f93b85ef93f0721cbbccfda80f62a677402a",
                 "shasum": ""
             },
             "require": {
@@ -4417,7 +4441,8 @@
                 "illuminate/contracts": "^12.0|^13.0",
                 "illuminate/database": "^12.0|^13.0",
                 "illuminate/support": "^12.0|^13.0",
-                "jeffersongoncalves/laravel-ccpa": "^1.0",
+                "jeffersongoncalves/laravel-ccpa": "^2.0",
+                "jeffersongoncalves/laravel-privacy": "^1.0",
                 "php": "^8.2",
                 "spatie/laravel-package-tools": "^1.16"
             },
@@ -4469,7 +4494,7 @@
             ],
             "support": {
                 "issues": "https://github.com/jeffersongoncalves/laravel-ccpa-retention/issues",
-                "source": "https://github.com/jeffersongoncalves/laravel-ccpa-retention/tree/1.0.0"
+                "source": "https://github.com/jeffersongoncalves/laravel-ccpa-retention/tree/2.0.0"
             },
             "funding": [
                 {
@@ -4481,21 +4506,21 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-11-17T16:15:49+00:00",
-            "published-time": "2026-11-17T16:15:56+00:00"
+            "time": "2026-11-18T22:09:06+00:00",
+            "published-time": "2026-11-18T22:11:25+00:00"
         },
         {
             "name": "jeffersongoncalves/laravel-ccpa-risk-assessments",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jeffersongoncalves/laravel-ccpa-risk-assessments.git",
-                "reference": "6582fe0ebb6d9f3dfc6c7dc057416eca84663e38"
+                "reference": "156945eaa8d1d2095081d166ffd71ae9979db423"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jeffersongoncalves/laravel-ccpa-risk-assessments/zipball/6582fe0ebb6d9f3dfc6c7dc057416eca84663e38",
-                "reference": "6582fe0ebb6d9f3dfc6c7dc057416eca84663e38",
+                "url": "https://api.github.com/repos/jeffersongoncalves/laravel-ccpa-risk-assessments/zipball/156945eaa8d1d2095081d166ffd71ae9979db423",
+                "reference": "156945eaa8d1d2095081d166ffd71ae9979db423",
                 "shasum": ""
             },
             "require": {
@@ -4503,7 +4528,7 @@
                 "illuminate/contracts": "^12.0|^13.0",
                 "illuminate/database": "^12.0|^13.0",
                 "illuminate/support": "^12.0|^13.0",
-                "jeffersongoncalves/laravel-ccpa": "^1.0",
+                "jeffersongoncalves/laravel-ccpa": "^2.0",
                 "jeffersongoncalves/laravel-ccpa-notices": "^1.0",
                 "php": "^8.2",
                 "spatie/laravel-package-tools": "^1.16"
@@ -4556,7 +4581,7 @@
             ],
             "support": {
                 "issues": "https://github.com/jeffersongoncalves/laravel-ccpa-risk-assessments/issues",
-                "source": "https://github.com/jeffersongoncalves/laravel-ccpa-risk-assessments/tree/1.0.0"
+                "source": "https://github.com/jeffersongoncalves/laravel-ccpa-risk-assessments/tree/1.1.0"
             },
             "funding": [
                 {
@@ -4568,8 +4593,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-11-17T16:35:10+00:00",
-            "published-time": "2026-11-17T16:35:21+00:00"
+            "time": "2026-11-18T22:24:23+00:00",
+            "published-time": "2026-11-18T22:25:26+00:00"
         },
         {
             "name": "jeffersongoncalves/laravel-ccpa-vendors",
@@ -4723,6 +4748,84 @@
             ],
             "time": "2026-08-27T14:17:41+00:00",
             "published-time": "2026-08-27T14:18:04+00:00"
+        },
+        {
+            "name": "jeffersongoncalves/laravel-privacy",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jeffersongoncalves/laravel-privacy.git",
+                "reference": "b03922c669b189370bf4577c85dacd4386f95d8a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jeffersongoncalves/laravel-privacy/zipball/b03922c669b189370bf4577c85dacd4386f95d8a",
+                "reference": "b03922c669b189370bf4577c85dacd4386f95d8a",
+                "shasum": ""
+            },
+            "require": {
+                "illuminate/console": "^12.0|^13.0",
+                "illuminate/contracts": "^12.0|^13.0",
+                "illuminate/database": "^12.0|^13.0",
+                "illuminate/http": "^12.0|^13.0",
+                "illuminate/support": "^12.0|^13.0",
+                "illuminate/validation": "^12.0|^13.0",
+                "php": "^8.2"
+            },
+            "require-dev": {
+                "larastan/larastan": "^3.0",
+                "laravel/pint": "^1.24",
+                "orchestra/testbench": "^10.0|^11.0",
+                "pestphp/pest": "^3.0|^4.0",
+                "pestphp/pest-plugin-laravel": "^3.0|^4.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "JeffersonGoncalves\\Privacy\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jefferson Gonçalves",
+                    "email": "gerson.simao.92@gmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Shared privacy engine for the LGPD, GDPR, CCPA, US state and Quebec Law 25 suites: personal data declarations, inventory, anonymization, k-anonymity, retention with tombstones, hash-chained audit log and consent ledger.",
+            "homepage": "https://github.com/jeffersongoncalves/laravel-privacy",
+            "keywords": [
+                "CCPA",
+                "anonymization",
+                "audit-log",
+                "consent",
+                "data-protection",
+                "gdpr",
+                "laravel",
+                "lgpd",
+                "personal-data",
+                "privacy"
+            ],
+            "support": {
+                "issues": "https://github.com/jeffersongoncalves/laravel-privacy/issues",
+                "source": "https://github.com/jeffersongoncalves/laravel-privacy/tree/1.0.0"
+            },
+            "funding": [
+                {
+                    "url": "https://buymeacoffee.com/jeffersongoncalves",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/jeffersongoncalves",
+                    "type": "github"
+                }
+            ],
+            "time": "2026-11-18T21:56:11+00:00",
+            "published-time": "2026-11-18T21:58:59+00:00"
         },
         {
             "name": "jeffersongoncalves/laravel-pwa-favicon",
@@ -5474,7 +5577,8 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
-            "time": "2026-11-17T14:58:33+00:00"
+            "time": "2026-11-17T14:58:33+00:00",
+            "published-time": "2026-11-17T14:58:44+00:00"
         },
         {
             "name": "laravel/prompts",
@@ -5532,7 +5636,8 @@
             "support": {
                 "source": "https://github.com/laravel/prompts/tree/v0.3.27"
             },
-            "time": "2026-11-09T16:07:10+00:00"
+            "time": "2026-11-09T16:07:10+00:00",
+            "published-time": "2026-11-09T16:09:07+00:00"
         },
         {
             "name": "laravel/serializable-closure",
@@ -5769,7 +5874,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-31T13:35:37+00:00"
+            "time": "2026-10-31T13:35:37+00:00",
+            "published-time": "2026-10-31T13:35:57+00:00"
         },
         {
             "name": "league/config",
@@ -5851,7 +5957,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2022-12-11T20:36:23+00:00"
+            "time": "2022-12-11T20:36:23+00:00",
+            "published-time": "2022-12-11T20:36:45+00:00"
         },
         {
             "name": "league/csv",
@@ -5946,7 +6053,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-10-28T08:56:24+00:00"
+            "time": "2026-10-28T08:56:24+00:00",
+            "published-time": "2026-10-28T08:59:25+00:00"
         },
         {
             "name": "league/flysystem",
@@ -6029,7 +6137,8 @@
                 "issues": "https://github.com/thephpleague/flysystem/issues",
                 "source": "https://github.com/thephpleague/flysystem/tree/3.36.0"
             },
-            "time": "2026-09-02T08:00:27+00:00"
+            "time": "2026-09-02T08:00:27+00:00",
+            "published-time": "2026-09-02T08:01:40+00:00"
         },
         {
             "name": "league/flysystem-local",
@@ -6078,7 +6187,8 @@
             "support": {
                 "source": "https://github.com/thephpleague/flysystem-local/tree/3.35.3"
             },
-            "time": "2026-08-12T13:29:21+00:00"
+            "time": "2026-08-12T13:29:21+00:00",
+            "published-time": "2026-08-22T12:57:18+00:00"
         },
         {
             "name": "league/mime-type-detection",
@@ -6134,7 +6244,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-07-09T11:49:27+00:00"
+            "time": "2026-07-09T11:49:27+00:00",
+            "published-time": "2026-07-09T11:50:09+00:00"
         },
         {
             "name": "league/uri",
@@ -6395,7 +6506,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-10-21T01:43:35+00:00"
+            "time": "2026-10-21T01:43:35+00:00",
+            "published-time": "2026-10-21T14:02:37+00:00"
         },
         {
             "name": "masterminds/html5",
@@ -6631,7 +6743,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-11-16T10:43:05+00:00"
+            "time": "2026-11-16T10:43:05+00:00",
+            "published-time": "2026-11-16T10:45:37+00:00"
         },
         {
             "name": "nesbot/carbon",
@@ -6737,7 +6850,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-25T14:32:48+00:00"
+            "time": "2026-10-25T14:32:48+00:00",
+            "published-time": "2026-10-25T14:41:05+00:00"
         },
         {
             "name": "nette/schema",
@@ -6804,7 +6918,8 @@
                 "issues": "https://github.com/nette/schema/issues",
                 "source": "https://github.com/nette/schema/tree/v1.4.0"
             },
-            "time": "2026-10-22T02:12:50+00:00"
+            "time": "2026-10-22T02:12:50+00:00",
+            "published-time": "2026-10-22T02:14:45+00:00"
         },
         {
             "name": "nette/utils",
@@ -6895,7 +7010,8 @@
                 "issues": "https://github.com/nette/utils/issues",
                 "source": "https://github.com/nette/utils/tree/v4.1.6"
             },
-            "time": "2026-10-20T17:07:56+00:00"
+            "time": "2026-10-20T17:07:56+00:00",
+            "published-time": "2026-10-20T17:48:30+00:00"
         },
         {
             "name": "nikic/php-parser",
@@ -7039,7 +7155,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-11-07T03:57:16+00:00"
+            "time": "2026-11-07T03:57:16+00:00",
+            "published-time": "2026-11-07T04:01:24+00:00"
         },
         {
             "name": "openspout/openspout",
@@ -7132,7 +7249,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-09-03T16:03:54+00:00"
+            "time": "2025-09-03T16:03:54+00:00",
+            "published-time": "2025-09-03T16:17:36+00:00"
         },
         {
             "name": "phpdocumentor/reflection-common",
@@ -7325,7 +7443,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-08-24T00:54:40+00:00"
+            "time": "2026-08-24T00:54:40+00:00",
+            "published-time": "2026-08-24T01:09:05+00:00"
         },
         {
             "name": "phpstan/phpdoc-parser",
@@ -7471,7 +7590,8 @@
                 "issues": "https://github.com/php-fig/clock/issues",
                 "source": "https://github.com/php-fig/clock/tree/1.0.0"
             },
-            "time": "2022-11-25T14:36:26+00:00"
+            "time": "2022-11-25T14:36:26+00:00",
+            "published-time": "2022-11-25T14:59:22+00:00"
         },
         {
             "name": "psr/container",
@@ -7628,7 +7748,8 @@
             "support": {
                 "source": "https://github.com/php-fig/http-client"
             },
-            "time": "2023-09-23T14:17:50+00:00"
+            "time": "2023-09-23T14:17:50+00:00",
+            "published-time": "2023-09-23T14:18:12+00:00"
         },
         {
             "name": "psr/http-factory",
@@ -7840,7 +7961,8 @@
             "support": {
                 "source": "https://github.com/php-fig/simple-cache/tree/3.0.0"
             },
-            "time": "2021-10-29T13:26:27+00:00"
+            "time": "2021-10-29T13:26:27+00:00",
+            "published-time": "2021-10-29T13:27:19+00:00"
         },
         {
             "name": "psy/psysh",
@@ -7995,7 +8117,8 @@
                 "issues": "https://github.com/ramsey/collection/issues",
                 "source": "https://github.com/ramsey/collection/tree/2.1.1"
             },
-            "time": "2025-03-22T05:38:12+00:00"
+            "time": "2025-03-22T05:38:12+00:00",
+            "published-time": "2025-03-22T05:39:22+00:00"
         },
         {
             "name": "ramsey/uuid",
@@ -8072,7 +8195,8 @@
                 "issues": "https://github.com/ramsey/uuid/issues",
                 "source": "https://github.com/ramsey/uuid/tree/4.10.0"
             },
-            "time": "2026-11-14T23:23:20+00:00"
+            "time": "2026-11-14T23:23:20+00:00",
+            "published-time": "2026-11-14T23:35:39+00:00"
         },
         {
             "name": "ryangjchandler/blade-capture-directive",
@@ -8609,7 +8733,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-12T14:32:04+00:00"
+            "time": "2026-10-12T14:32:04+00:00",
+            "published-time": "2026-10-14T06:48:32+00:00"
         },
         {
             "name": "symfony/console",
@@ -8777,7 +8902,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-18T14:56:39+00:00"
+            "time": "2026-10-18T14:56:39+00:00",
+            "published-time": "2026-10-28T18:24:46+00:00"
         },
         {
             "name": "symfony/deprecation-contracts",
@@ -8930,7 +9056,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-25T14:40:25+00:00"
+            "time": "2026-10-25T14:40:25+00:00",
+            "published-time": "2026-10-28T18:24:13+00:00"
         },
         {
             "name": "symfony/event-dispatcher",
@@ -9016,7 +9143,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-08-21T17:47:34+00:00"
+            "time": "2026-08-21T17:47:34+00:00",
+            "published-time": "2026-08-22T13:46:58+00:00"
         },
         {
             "name": "symfony/event-dispatcher-contracts",
@@ -9322,7 +9450,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-11-04T08:39:20+00:00"
+            "time": "2026-11-04T08:39:20+00:00",
+            "published-time": "2026-11-04T11:31:54+00:00"
         },
         {
             "name": "symfony/http-kernel",
@@ -9432,7 +9561,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-11-04T11:29:46+00:00"
+            "time": "2026-11-04T11:29:46+00:00",
+            "published-time": "2026-11-04T11:32:19+00:00"
         },
         {
             "name": "symfony/mailer",
@@ -9512,7 +9642,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-23T17:06:53+00:00"
+            "time": "2026-10-23T17:06:53+00:00",
+            "published-time": "2026-10-28T18:23:52+00:00"
         },
         {
             "name": "symfony/mime",
@@ -9598,7 +9729,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-28T17:58:38+00:00"
+            "time": "2026-10-28T17:58:38+00:00",
+            "published-time": "2026-10-28T18:23:55+00:00"
         },
         {
             "name": "symfony/polyfill-ctype",
@@ -9852,7 +9984,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-09-23T14:40:04+00:00"
+            "time": "2026-09-23T14:40:04+00:00",
+            "published-time": "2026-09-30T10:23:39+00:00"
         },
         {
             "name": "symfony/polyfill-intl-normalizer",
@@ -10189,7 +10322,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-09-25T15:50:05+00:00"
+            "time": "2026-09-25T15:50:05+00:00",
+            "published-time": "2026-09-30T10:23:32+00:00"
         },
         {
             "name": "symfony/polyfill-php84",
@@ -10269,7 +10403,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-09-23T22:01:09+00:00"
+            "time": "2026-09-23T22:01:09+00:00",
+            "published-time": "2026-09-30T10:23:33+00:00"
         },
         {
             "name": "symfony/polyfill-php85",
@@ -10430,7 +10565,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-09-25T15:46:47+00:00"
+            "time": "2026-09-25T15:46:47+00:00",
+            "published-time": "2026-09-30T10:23:43+00:00"
         },
         {
             "name": "symfony/polyfill-time",
@@ -10513,7 +10649,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-08-07T13:08:13+00:00"
+            "time": "2026-08-07T13:08:13+00:00",
+            "published-time": "2026-08-24T11:45:15+00:00"
         },
         {
             "name": "symfony/polyfill-uuid",
@@ -10596,7 +10733,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-09-24T05:20:52+00:00"
+            "time": "2026-09-24T05:20:52+00:00",
+            "published-time": "2026-09-30T10:23:49+00:00"
         },
         {
             "name": "symfony/process",
@@ -10661,7 +10799,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-25T14:40:25+00:00"
+            "time": "2026-10-25T14:40:25+00:00",
+            "published-time": "2026-10-28T18:25:20+00:00"
         },
         {
             "name": "symfony/routing",
@@ -10741,7 +10880,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-11-04T08:39:20+00:00"
+            "time": "2026-11-04T08:39:20+00:00",
+            "published-time": "2026-11-04T11:30:59+00:00"
         },
         {
             "name": "symfony/service-contracts",
@@ -11013,7 +11153,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-11-01T22:27:46+00:00"
+            "time": "2026-11-01T22:27:46+00:00",
+            "published-time": "2026-11-04T11:31:54+00:00"
         },
         {
             "name": "symfony/translation-contracts",
@@ -11174,7 +11315,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-12T14:32:04+00:00"
+            "time": "2026-10-12T14:32:04+00:00",
+            "published-time": "2026-10-14T06:48:53+00:00"
         },
         {
             "name": "symfony/var-dumper",
@@ -11261,7 +11403,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-26T21:55:04+00:00"
+            "time": "2026-10-26T21:55:04+00:00",
+            "published-time": "2026-10-28T18:25:26+00:00"
         },
         {
             "name": "tijsverkoyen/css-to-inline-styles",
@@ -11316,7 +11459,8 @@
                 "issues": "https://github.com/tijsverkoyen/CssToInlineStyles/issues",
                 "source": "https://github.com/tijsverkoyen/CssToInlineStyles/tree/v2.4.0"
             },
-            "time": "2025-12-02T11:56:42+00:00"
+            "time": "2025-12-02T11:56:42+00:00",
+            "published-time": "2025-12-11T21:29:16+00:00"
         },
         {
             "name": "vlucas/phpdotenv",
@@ -11400,7 +11544,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-25T16:26:19+00:00"
+            "time": "2026-10-25T16:26:19+00:00",
+            "published-time": "2026-10-25T16:26:50+00:00"
         },
         {
             "name": "voku/portable-ascii",
@@ -11474,7 +11619,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-04-26T05:33:54+00:00"
+            "time": "2026-04-26T05:33:54+00:00",
+            "published-time": "2026-04-26T05:43:38+00:00"
         }
     ],
     "packages-dev": [
@@ -12277,7 +12423,8 @@
                 "issues": "https://github.com/hamcrest/hamcrest-php/issues",
                 "source": "https://github.com/hamcrest/hamcrest-php/tree/v3.0.0"
             },
-            "time": "2026-03-17T11:56:53+00:00"
+            "time": "2026-03-17T11:56:53+00:00",
+            "published-time": "2026-06-16T10:52:40+00:00"
         },
         {
             "name": "iamcal/sql-parser",
@@ -12762,7 +12909,8 @@
                 "security": "https://github.com/mockery/mockery/security/advisories",
                 "source": "https://github.com/mockery/mockery"
             },
-            "time": "2026-08-19T19:37:52+00:00"
+            "time": "2026-08-19T19:37:52+00:00",
+            "published-time": "2026-08-19T19:38:57+00:00"
         },
         {
             "name": "myclabs/deep-copy",
@@ -15446,7 +15594,8 @@
                 "issues": "https://github.com/webmozarts/assert/issues",
                 "source": "https://github.com/webmozarts/assert/tree/2.5.1"
             },
-            "time": "2026-11-15T13:41:13+00:00"
+            "time": "2026-11-15T13:41:13+00:00",
+            "published-time": "2026-11-15T13:41:42+00:00"
         }
     ],
     "aliases": [],
